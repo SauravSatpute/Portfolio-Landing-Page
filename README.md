@@ -19,6 +19,5 @@ Portfolio
 
 ## Demo
 
-Insert gif or link to demo
 
 ![](demo.png)
