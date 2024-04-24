@@ -21,4 +21,4 @@ Portfolio
 
 Insert gif or link to demo
 
-![](https://github.com/Usability-Landing-Page/demo.gif)
+![](demo.png)
